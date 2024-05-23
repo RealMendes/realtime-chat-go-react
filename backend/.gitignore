@@ -1,0 +1,25 @@
+# binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# testing
+*.test
+
+# dependencies
+/vendor/
+
+# logs
+*.log
+
+# temp files
+*.tmp
+
+# files IDE
+.idea/
+
+# files system
+.DS_Store
+Thumbs.db
